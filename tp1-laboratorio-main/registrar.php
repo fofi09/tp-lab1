@@ -2,6 +2,7 @@
 
 //include("con_db.php");
 //if($conex)
+//
 {
 	echo "conectado a mysql de sof";
 }
